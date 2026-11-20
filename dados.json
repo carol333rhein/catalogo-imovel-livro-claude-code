@@ -1,0 +1,61 @@
+{
+  "titulo": "Agora o Claude Code faz um catálogo da sua casa, do seu imóvel.",
+  "destaque": "Claude Code",
+  "palavra": "SUA-PALAVRA",
+  "chamada": "Quer aprender a fazer isso?",
+  "imovel": {
+    "etiqueta": "Casa à venda · Jardim das Acácias",
+    "nome": "Casa Acácia",
+    "destaqueNome": "Acácia",
+    "valor": "R$ 480.000",
+    "valorCurto": "R$ 480 mil",
+    "bairro": "Jardim das Acácias",
+    "resumo": "Três quartos, uma suíte e um quintal para o domingo.",
+    "quartos": "3",
+    "suites": "1",
+    "vagas": "2",
+    "proximidade": {
+      "numero": "5 min",
+      "texto": "do mercado e da escola"
+    },
+    "aviso": "Imóvel ilustrativo, criado para demonstração."
+  },
+  "fotos": {
+    "fachada": "fachada.jpg",
+    "sala": "sala.jpg",
+    "cozinha": "cozinha.jpg",
+    "quarto": "quarto.jpg",
+    "banheiro": "banheiro.jpg",
+    "lavanderia": "lavanderia.jpg",
+    "varanda": "varanda.jpg"
+  },
+  "paginas": {
+    "sala": {
+      "rotulo": "Sala",
+      "titulo": "Pé-direito alto e piso de madeira",
+      "destaque": "piso de madeira"
+    },
+    "cozinha": {
+      "rotulo": "Cozinha",
+      "titulo": "Ilha com bancada e espaço para todos",
+      "destaque": "espaço para todos"
+    },
+    "quartos": {
+      "rotulo": "Quartos",
+      "titulo": "Três quartos, sendo uma suíte",
+      "destaque": "uma suíte",
+      "texto": "Cada um com o seu canto, e um banheiro de suíte com chuveiro amplo."
+    },
+    "varanda": {
+      "rotulo": "Varanda e quintal",
+      "titulo": "Para receber a família sem pressa",
+      "destaque": "sem pressa",
+      "texto": "Lavanderia separada e a varanda aberta para o gramado."
+    },
+    "banheiro": {
+      "rotulo": "Banheiro da suíte",
+      "titulo": "Claro, amplo e com chuveiro de vidro",
+      "destaque": "chuveiro de vidro"
+    }
+  }
+}

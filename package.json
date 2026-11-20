@@ -1,0 +1,21 @@
+{
+  "name": "catalogo-imovel-livro-claude-code",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Molde de Reels de catálogo de imóvel em formato de livro, preenchido pelo Claude Code",
+  "scripts": {
+    "render": "remotion render src/index.ts Livro out/catalogo-imovel-livro.mp4 --gl=angle --timeout=300000",
+    "quadro": "remotion still src/index.ts Livro out/q.png --gl=angle --timeout=300000 --frame=120"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.527",
+    "@remotion/google-fonts": "4.0.527",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.527"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
